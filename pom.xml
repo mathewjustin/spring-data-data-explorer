@@ -11,8 +11,9 @@
 	<groupId>org.springframework.data</groupId>
 	<artifactId>spring-data-dataexplorer</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>demo</name>
-	<description>Demo project for Spring Boot</description>
+	<name>Spring Data Data Explorer</name>
+	<description>Spring Data implementation for Azure Data Explorer</description>
+	<url>https://github.com/mathewjustin/spring-data-data-explorer</url>
 	<properties>
 		<java.version>1.8</java.version>
 	</properties>
